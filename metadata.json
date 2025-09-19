@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Square Feet Calculator",
+  "description": "A modern and intuitive web application to calculate area in square feet from various units of measurement (feet, inches, meters, centimeters). Inspired by clean Flutter design principles.",
+  "requestFramePermissions": []
+}
